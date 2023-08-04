@@ -1,0 +1,10 @@
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f5fcff;
+  height: 100vh;
+  gap: 1rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
